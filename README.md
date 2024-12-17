@@ -5,13 +5,24 @@ This paper has been accepted by IEEE TNNLS.
 
 ## BibTex Citation
 @ARTICLE{ma2024distributed,
-  author={Ma, Jitao and Xie, Weiying and Ye, Hangyu and Li, Daixun and Fang, Leyuan},
+
+  author={Ma, Jitao and Xie, Weiying and Lu, Tianen and Li, Jie and Li, Yunsong and Fang, Leyuan and Du, Qian},
+  
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={IEEE Transactions on Neural Networks and Learning Systems Information for Authors}, 
-  year={2021},
-  volume={32},
-  number={6},
-  pages={C4-C4},
+  
+  title={Distributed Deep Learning with Gradient Compression for Big Remote Sensing Image Interpretation}, 
+  
+  year={2024},
+  
+  volume={},
+  
+  number={},
+  
+  pages={},
+  
   keywords={},
-  doi={10.1109/TNNLS.2021.3078596}}
+  
+  doi={10.1109/TNNLS.2024.3517535}
+  
+  }
 
