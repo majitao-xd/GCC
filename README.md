@@ -14,11 +14,11 @@ This paper has been accepted by IEEE TNNLS.
   
   year={2024},
   
-  volume={},
+  volume={36},
   
-  number={},
+  number={8},
   
-  pages={},
+  pages={14328-14342},
   
   keywords={},
   
